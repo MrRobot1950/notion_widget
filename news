@@ -1,17 +1,1 @@
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
-  {
-  "width": "100%",
-  "height": "100%",
-  "colorTheme": "dark",
-  "isTransparent": false,
-  "locale": "en",
-  "importanceFilter": "-1,0,1",
-  "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
+<iframe frameborder="0" scrolling="auto" height="350" width="670" allowtransparency="true" marginwidth="0" marginheight="0" src="http://ecal.investing.com/e_cal.php?duration=weekly&top_text_color=FFFFFF&header_text_color=FFFFFF&bg1=FFFFFF&bg2=CEEBFF&border=CBCBCB" align="center"></iframe><br /><span style="font-size: 11px;color: #333333;text-decoration: none;">Real Time Economic Calendar provided by <a href="https://www.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com</a>.</span>
